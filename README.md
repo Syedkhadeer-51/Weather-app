@@ -9,4 +9,5 @@ The whether app displays :
 
 Stack Used:
 * Next.js
+* Tailwind CSS
 * Open wheather api -> To get the wheather conditions of searched cities
