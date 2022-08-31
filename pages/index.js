@@ -44,7 +44,7 @@ export default function Home() {
         {/* bg-image */}
          <Image src='https://images.unsplash.com/photo-1522441815192-d9f04eb0615c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGRhcmslMjBiZyUyMHdpdGglMjB0ZXh0dXJlJTIwYW5kJTIwYmR8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60' layout='fill' className='objetc-cover'/>
         {/* search */}
-        <div className='p-3'>
+        <div className='p-1'>
         <div className='relative flex justify-between items-center max-w-[500px] sm:max-w-[300px] w-full m-auto pt-4 text-white z-10'>
           <form onSubmit={fetchWeather}  className='flex justify-between items-center w-full p-3 m-auto bg-transparent border border-gray-300 text-white rounded-2xl shadow-2xl'>
             <div>
