@@ -1,4 +1,5 @@
 A simple wheather app to display whether conditions of different cities. 
+check out -> https://weather-app-puce-ten.vercel.app/
 
 
 ![Screenshot 2022-08-31 at 8 13 55 PM](https://user-images.githubusercontent.com/67771257/187707408-f8c0e459-805c-43ba-906d-a171425512ed.png)
